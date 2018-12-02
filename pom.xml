@@ -4,7 +4,7 @@
 
     <groupId>pl.vistersky</groupId>
     <artifactId>versioning-demo</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>versioning-demo</name>
@@ -47,7 +47,7 @@
         <connection>scm:git:git@github.com:Vistersky/VersioningDemo.git</connection>
         <developerConnection>scm:git:git@github.com:Vistersky/VersioningDemo.git</developerConnection>
         <url>https://github.com/Vistersky/VersioningDemo.git</url>
-        <tag>0.0.2</tag>
+        <tag>0.0.1</tag>
     </scm>
 
     <build>
